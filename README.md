@@ -1,5 +1,3 @@
-<h1 align="center">Hey there, welcome to my profile </h1>
-
 <p> <img src="https://komarev.com/ghpvc/?username=kaskichandrakant&label=Profile%20views&color=0e75b6&style=flat" alt="kaskichandrakant" /> </p>
 
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaskichandrakant" alt="kaskichandrakant" /></a> </p>
