@@ -1,12 +1,12 @@
-<h1 align="center">Hello There 👋, This is Chandrakant Kaski (Full stack developer)</h1>
+<h1 align="center">Hey there, welcome to my profile </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaskichandrakant&label=Profile%20views&color=0e75b6&style=flat" alt="kaskichandrakant" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=kaskichandrakant&label=Profile%20views&color=0e75b6&style=flat" alt="kaskichandrakant" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaskichandrakant" alt="kaskichandrakant" /></a> </p>
+<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaskichandrakant" alt="kaskichandrakant" /></a> </p>
 
 
-<h3 align="left">Languages and Tools - </h3>
-<p align="left">
+<h3>Languages and Tools:</h3>
+<p>
         <a href="https://golang.org" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="60"
                 height="60" />
@@ -41,4 +41,11 @@
         <a href="https://www.gnu.org/software/bash" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="60" height="60" />
         </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaskichandrakant&show_icons=true&locale=en&layout=compact" alt="kaskichandrakant" /></p>
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaskichandrakant&show_icons=true&locale=en&layout=compact" alt="kaskichandrakant"/>
+</p>
+<hr>
+<p>
+    <a href="https://www.linkedin.com/in/chandrakant-k-64b8ab105/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="bash" width="100" height="60" /></a>
+</p>
